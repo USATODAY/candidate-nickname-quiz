@@ -1,6 +1,5 @@
-#emoji-match
+#candidate nickname quiz
 
-The best project ever.
 
 
 Copyright 2015 USA TODAY. All rights reserved. No part of these materials may be reproduced, modified, stored in a retrieval system, or retransmitted, in any form or by any means, electronic, mechanical or otherwise, without prior written permission from USA TODAY.
@@ -22,5 +21,3 @@ and install Bower with
 Once those dependencies are set up, from this repository run `npm install`, then run `grunt`
 
 
-###Live version:
-http://www.gannett-cdn.com/experiments/usatoday/2015/04/emoji-match/
