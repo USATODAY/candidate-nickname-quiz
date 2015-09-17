@@ -29,7 +29,7 @@ define(
         {
             "head": "CANDIDATE QUIZ",
             "round": "1",
-            "chatter": "Republican candidates were asked Wednesday night to name their dream Secret Service code names. Florida Senator Marco Rubio and University of Florida graduate chose Gator while Scott Walker selected Harley — his motorcycle of choice. Can you guess what these other candidates said?"
+            "chatter": "Republican candidates were asked Wednesday night to name their dream Secret Service code names. University of Florida grad Sen. Marco Rubio chose Gator while Gov. Scott Walker selected Harley — his motorcycle of choice. Can you guess what these other candidates said?"
         }
     ];
 

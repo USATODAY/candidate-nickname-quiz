@@ -6,7 +6,7 @@ this["templates"]["app.html"] = function(obj) {
 obj || (obj = {});
 var __t, __p = '', __e = _.escape;
 with (obj) {
-__p += '<div id="overallCon" class="group"  >\n    <div id="headerCon" class="iapp-overlay">\n        <h1 class="header-title">CANDIDATE QUIZ</h1>\n        <div class="instruct">Republican candidates were asked Wednesday night to name their dream Secret Service code names. Florida Senator Marco Rubio and University of Florida graduate chose "Gator" while Scott Walker selected Harley — his motorcycle of choice. Can you guess what these other candidates said? </div>\n        <div class="button" id="begin-button">Begin</div>\n    </div>\n    <div class="round-container"></div>\n    <!--TWITTER AND FACEBOOK SHARING-->\n    <div id="shareCon">\n            \n    </div>\n    <!--END TWITTER AND FACEBOOK SHARING-->\n</div>\n    \n</div>\n\n<div id="landscape-warning">\n\t\t<h2>Please rotate your device.</h2>\n</div>\n\n';
+__p += '<div id="overallCon" class="group"  >\n    <div id="headerCon" class="iapp-overlay">\n        <h1 class="header-title">CANDIDATE QUIZ</h1>\n        <div class="instruct">Republican candidates were asked Wednesday night to name their dream Secret Service code names. University of Florida grad Sen. Marco Rubio chose Gator while Gov. Scott Walker selected Harley — his motorcycle of choice. Can you guess what these other candidates said?</div>\n        <div class="button" id="begin-button">Begin</div>\n    </div>\n    <div class="round-container"></div>\n    <!--TWITTER AND FACEBOOK SHARING-->\n    <div id="shareCon">\n            \n    </div>\n    <!--END TWITTER AND FACEBOOK SHARING-->\n</div>\n    \n</div>\n\n<div id="landscape-warning">\n\t\t<h2>Please rotate your device.</h2>\n</div>\n\n';
 
 }
 return __p
